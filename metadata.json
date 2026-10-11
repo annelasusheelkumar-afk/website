@@ -1,0 +1,6 @@
+{
+  "name": "Dr M Dental Clinic & Implant Centre",
+  "description": "Gentle, advanced dental care and dental implants in New Mallepally, Hyderabad. Open daily until 10 PM near Hadi Hospital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
